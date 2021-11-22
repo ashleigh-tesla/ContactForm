@@ -24,7 +24,7 @@ if(!empty($email) && !empty($message)){ // if email and message field are not em
         echo 'Enter A Valid Email Address!'
     }
 }else {
-    echo "Email and Password are Required"
+    echo "Email and Password are Required!"
 }
 
 ?>
