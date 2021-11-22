@@ -58,7 +58,7 @@ form .message textarea {
 
 form .field input::placeholder,
 form .message textarea::placeholder {
-    color: #bfbfbf;
+    color: rgba(0, 0, 0, 0.7);
 }
 
 form .field input:focus,
